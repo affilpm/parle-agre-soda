@@ -1,1 +1,1 @@
-This is my minor projects i created using only html and css.
+This is my first minor projects i created using only html and css.
